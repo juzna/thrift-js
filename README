@@ -1,3 +1,11 @@
 Thrift libraries for JavaScript, especially for Node.js
 
 Now in phase of early development, nothing is working right now and Github is just a backup storage
+
+Goal of this project is to create comprehensive Thrift server in Node.js
+
+Planned features:
+ - Protocol support: Binary, JSON
+ - Transport support: TCP, Unix socket, HTTP (all of them both client and/or server)
+ - All calls asynchronous - using callbacks
+ - Server for Node.js
