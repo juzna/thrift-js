@@ -1,3 +1,5 @@
+(I have just found this: https://github.com/juzna/node-thrift)
+
 Thrift libraries for JavaScript, especially for Node.js
 
 Now in phase of early development, nothing is working right now and Github is just a backup storage
